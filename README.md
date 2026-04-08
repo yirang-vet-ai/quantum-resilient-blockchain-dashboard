@@ -12,6 +12,10 @@ A hands-on blockchain learning dashboard that combines **post-quantum digital si
 
 ![Cover](assets/cover.png)
 
+Author: YIRANG JUNG  
+
+All Rights Reserved © Yirang Jung (2026)
+
 ## 1. Project Overview
 
 This project was designed to explain blockchain to beginners through a guided, step-by-step interface while also introducing a more advanced security theme: **post-quantum cryptography (PQC)**.
@@ -295,6 +299,17 @@ This repository is provided for portfolio, demonstration, and educational purpos
 Unless the owner explicitly grants additional permission, all code, design assets, documentation, screenshots, and derivative materials are protected under an **all rights reserved** notice.
 
 See `LICENSE` and `NOTICE` for details.
+
+All Rights Reserved
+
+Copyright (c) 2026 Yirang Jung
+
+All rights reserved.
+
+This project and its contents are the exclusive property of the author.
+Unauthorized copying, modification, distribution, publication, sublicensing, or commercial use of this code, assets, documentation, or derived works, in whole or in part, is strictly prohibited without explicit prior written permission from the author.
+
+All images and visual materials in this repository are protected by copyright. Unauthorized use, reproduction, or distribution is prohibited.
 
 ## 15. Future Extensions
 
